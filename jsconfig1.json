@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "23675a10-b0de-47f8-a186-24188b64004c",
+    "Path": "C:\\Users\\30958\\source\\repos\\rename\\bin\\Debug\\net8.0\\rename.deps.json",
+    "DateCreated": "2025-04-06T13:58:35.9536079+08:00",
+    "DateModified": "2025-04-06T15:13:32.7426628+08:00",
+    "FileSize": 1335
+  },
+  {
+    "Id": "5e1df04e-8a23-4267-864e-4a447dc9df5e",
+    "Path": "C:\\Users\\30958\\source\\repos\\rename\\bin\\Debug\\net8.0\\rename.dll",
+    "DateCreated": "2025-04-06T13:58:36.1101863+08:00",
+    "DateModified": "2025-04-06T19:50:13.7124754+08:00",
+    "FileSize": 21504
+  },
+  {
+    "Id": "45782feb-f786-48d1-b411-690cfa82e2b0",
+    "Path": "C:\\Users\\30958\\source\\repos\\rename\\bin\\Debug\\net8.0\\rename.exe",
+    "DateCreated": "2025-04-06T13:58:35.7912549+08:00",
+    "DateModified": "2025-04-06T19:50:13.7164758+08:00",
+    "FileSize": 138752
+  },
+  {
+    "Id": "987d64c5-bce6-4492-9557-aabf183e1ccf",
+    "Path": "C:\\Users\\30958\\source\\repos\\rename\\bin\\Debug\\net8.0\\rename.pdb",
+    "DateCreated": "2025-04-06T13:58:36.1131879+08:00",
+    "DateModified": "2025-04-06T19:50:13.7114766+08:00",
+    "FileSize": 21516
+  },
+  {
+    "Id": "49b7987d-8839-4ad7-87c4-78342ee1391d",
+    "Path": "C:\\Users\\30958\\source\\repos\\rename\\bin\\Debug\\net8.0\\rename.runtimeconfig.json",
+    "DateCreated": "2025-04-06T13:58:36.0161858+08:00",
+    "DateModified": "2025-04-06T13:58:36.1091857+08:00",
+    "FileSize": 1496
+  }
+]

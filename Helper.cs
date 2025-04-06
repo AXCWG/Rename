@@ -1,17 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace rename
+﻿namespace rename
 {
-    class Helper
+    public static class Helper
     {
-        public static Double Eval(String expression)
+        public static DateTime Trim(this DateTime date, long roundTicks)
         {
-            System.Data.DataTable table = new System.Data.DataTable();
-            return Convert.ToDouble(table.Compute(expression, String.Empty));
+            return new DateTime(date.Ticks - date.Ticks % roundTicks, date.Kind);
         }
     }
 }
